@@ -1,0 +1,22 @@
+1) data_alex3 and data_insta2 are from:
+-> https://towardsdatascience.com/predict-the-number-of-likes-on-instagram-a7ec5c020203
+-> https://github.com/gvsi/instagram-like-predictor
+
+2) Instagram_data1 is from:
+-> https://www.kaggle.com/datasets
+
+Paper 1
+Teens using social media: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.685.9897&rep=rep1&type=pdf
+
+Resource 2
+https://towardsdatascience.com/predict-the-number-of-likes-on-instagram-a7ec5c020203
+
+Similar idea
+https://www.kaggle.com/fahadmehfoooz/clubhouse-eda/notebook
+
+
+Idea1 
+https://www.researchgate.net/publication/337964729_MANAGING_BRANDS'_POPULARITY_ON_FACEBOOK_POST_TIME_CONTENT_AND_BRAND_COMMUNICATION_STRATEGIES
+
+idea2
+https://www.researchgate.net/profile/Amir-H-Zadeh-2/publication/255857099_Modeling_Brand_Post_Popularity_in_Online_Social_Networks/links/5b8ab8d3a6fdcc5f8b77af34/Modeling-Brand-Post-Popularity-in-Online-Social-Networks.pdf
