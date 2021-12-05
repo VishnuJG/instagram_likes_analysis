@@ -7,6 +7,7 @@ Contributers:
   <li>Arasada Lakshmi Praneeth (PES1UG19CS082) (praneeth.arasada@gmail.com)</li>
 </ul>
   <hr>
+<h2>Project Components</h2>
 <ul>
   <li>The finalProjectPresentation is our video for the respective project</li>
   <li>The finpro is the .ipynb file which includes the consolidated and cleaned notebook for the analysis performed</li>
