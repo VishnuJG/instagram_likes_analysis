@@ -6,7 +6,7 @@ Contributers:
   <li>Kotapothula Ajay kumar (PES1UG19CS226) (ajayk.sm2001@gmail.com)</li>
   <li>Arasada Lakshmi Praneeth (PES1UG19CS082) (praneeth.arasada@gmail.com)</li>
 </ul>
-  
+  <hr>
 <ul>
   <li>The finalProjectPresentation is our video for the respective project</li>
   <li>The finpro is the .ipynb file which includes the consolidated and cleaned notebook for the analysis performed</li>
@@ -14,5 +14,6 @@ Contributers:
   <li>The link to the dataset: <a href="https://www.kaggle.com/vasileiosmpletsos/1100-instagram-users-datetime-posts-data">dataset</a></li>
   <li>Includes the plgiarism report</li>
   <li>The file named Analysts_101_082_226_574 is the final report(paper) for our analysis</li>
+  <li>The literature survey is in the literature survey folder along with the record of steps taken while doing the analysis</li>
 </ul>
   
