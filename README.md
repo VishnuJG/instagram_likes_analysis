@@ -7,3 +7,12 @@ Contributers:
   <li>Arasada Lakshmi Praneeth (PES1UG19CS082) (praneeth.arasada@gmail.com)</li>
 </ul>
   
+<ul>
+  <li>The finalProjectPresentation is our video for the respective project</li>
+  <li>The finpro is the .ipynb file which includes the consolidated and cleaned notebook for the analysis performed</li>
+  <li>EDA1 and EDA2 are exploratory data analysis made on the dataset</li>
+  <li>The link to the dataset: <a href="https://www.kaggle.com/vasileiosmpletsos/1100-instagram-users-datetime-posts-data">dataset</a></li>
+  <li>Includes the plgiarism report</li>
+  <li>The file named Analysts_101_082_226_574 is the final report(paper) for our analysis</li>
+</ul>
+  
